@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 mysql:5.7
-dyanlaksma/mysql-arm64:latest
+mysql:5.7
