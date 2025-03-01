@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 mysql:5.7
---platform=linux/arm64v8 arm64v8/mysql:8.0.41
+#--platform=linux/arm64v8 arm64v8/mysql:8.0.41
+nginx:1.12.2
